@@ -1,2 +1,2 @@
 # matplotlib
-
+plotted some visuali
